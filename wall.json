@@ -1,4 +1,5 @@
-[  {
+[
+  {
     "name": "Street Night",
     "author": "Dhanraj",
     "url": "https://raw.githubusercontent.com/CatalystWalls/test-walls/main/image_picker7438360017879840112.jpg",
@@ -15,5 +16,38 @@
     "template": "https://raw.githubusercontent.com/CatalystWalls/test-walls/main/thumb_image_picker8198880598842202048.jpg",
     "tag": "General",
     "id": 581102
+  },
+  {
+    "name": "Wall",
+    "author": "Peru RIPPLER",
+    "url": "https://raw.githubusercontent.com/CatalystWalls/test-walls/main/image_picker6116663554880642943.png",
+    "time": "2021-06-23 19:40:16.743097",
+    "template": "https://raw.githubusercontent.com/CatalystWalls/test-walls/main/thumb_image_picker6116663554880642943.png",
+    "tag": "General",
+    "id": 827171,
+    "size": "0.07MB",
+    "resolution": "1080x2340"
+  },
+  {
+    "name": "Wall",
+    "author": "Peru RIPPLER",
+    "url": "https://raw.githubusercontent.com/CatalystWalls/test-walls/main/image_picker6275505998962598715.png",
+    "time": "2021-06-23 19:41:59.899281",
+    "template": "https://raw.githubusercontent.com/CatalystWalls/test-walls/main/thumb_image_picker6275505998962598715.png",
+    "tag": "General",
+    "id": 399339,
+    "size": "0.29MB",
+    "resolution": "3240x7020"
+  },
+  {
+    "name": "Wall",
+    "author": "Peru RIPPLER",
+    "url": "https://raw.githubusercontent.com/CatalystWalls/test-walls/main/image_picker8142257419314694961.png",
+    "time": "2021-06-23 19:42:33.561614",
+    "template": "https://raw.githubusercontent.com/CatalystWalls/test-walls/main/thumb_image_picker8142257419314694961.png",
+    "tag": "General",
+    "id": 843519,
+    "size": "0.34MB",
+    "resolution": "3240x7020"
   }
 ]
