@@ -8,17 +8,7 @@
     "tag": "General",
     "tap": "https://t.me/joinchat/hXN4Q4t0U5tiMDg1",
     "id": 93063
-  },
-  {
-    "name": "Photography 9",
-    "author": "Abhay Kumar",
-    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/wall1.jpg",
-    "time": "2021-08-02 19:27:17.886729",
-    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/thumb%201.jpg",
-    "tag": "Photography",
-    "tap": "null",
-    "id": 304243
-  },
+  }
   {
     "name": "Aurora",
     "author": "Megh Dave",
@@ -48,5 +38,15 @@
     "tag": "Typography",
     "tap": "null",
     "id": 678591
+  },
+  {
+    "name": "Photography 9",
+    "author": "Abhay Kumar",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/wall1.jpg",
+    "time": "2021-08-02 19:27:17.886729",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/thumb%201.jpg",
+    "tag": "Photography",
+    "tap": "null",
+    "id": 304243
   }
 ]
