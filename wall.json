@@ -28,5 +28,15 @@
     "tag": "Scenery",
     "tap": "null",
     "id": 322954
-  }
+  },
+  {
+    "name": "Gradient 11",
+    "author": "Dhanraj",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/wall3.jpg",
+    "time": "2021-08-02 15:09:00.534106",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/thumb3.jpg",
+    "tag": "Gradients",
+    "tap": "null",
+    "id": 597145
+}
 ]
