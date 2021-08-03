@@ -30,6 +30,20 @@
     "id": 304243
   },
   {
+    "name": "Red Lava",
+    "author": "Megh Dave",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/image.png",
+    "time": "2021-08-02 16:14:26.461873",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/thumb.png",
+    "tag": "Fluid",
+    "tap": "null",
+    "id": 949488,
+    "size": "0.96MB",
+    "resolution": "1468x3264",
+    "search": "Fluid Red Lava",
+    "description": "A Fluid Wall"
+  },
+  {
     "name": "Don't Stop",
     "author": "Megh Dave",
     "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/wall4.jpg",
