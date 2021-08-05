@@ -10,12 +10,12 @@
     "id": 93063
   },
   {
-    "name": "Aurora",
-    "author": "Megh Dave",
-    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/thumb%202.png",
+    "name": "Gradient 6",
+    "author": "Dhanraj",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.013.png",
     "time": "2021-08-02 16:13:42.862200",
-    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/Wall%202.png",
-    "tag": "Scenery",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/20210805_103828.png",
+    "tag": "Gradients",
     "tap": "null",
     "id": 322954
   },
@@ -30,12 +30,12 @@
     "id": 304243
   },
   {
-    "name": "Red Lava",
+    "name": "Saturn V2",
     "author": "Megh Dave",
-    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/image.png",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.029.jpg",
     "time": "2021-08-02 16:14:26.461873",
-    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/thumb.png",
-    "tag": "Fluid",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/20210805_092126.png",
+    "tag": "Scenery",
     "tap": "null",
     "id": 949488,
     "size": "0.96MB",
@@ -46,10 +46,20 @@
   {
     "name": "Don't Stop",
     "author": "Megh Dave",
-    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/wall4.jpg",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.47.038.jpg",
     "time": "2021-08-02 13:49:20.889442",
-    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/thumb%204.jpg",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/IMG_20210805_064048_890.png",
     "tag": "Typography",
+    "tap": "null",
+    "id": 678591
+  },
+   {
+    "name": "The Lion Pride",
+    "author": "Megh Dave",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.041.jpg",
+    "time": "2021-08-02 13:49:20.889442",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/20210805_093235.png",
+    "tag": "Amoled",
     "tap": "null",
     "id": 678591
   }
