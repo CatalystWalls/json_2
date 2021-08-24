@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Telegram",
+    "author": "Dhanraj",
+    "url": "null",
+    "time": "2021-04-22 20:15:23.747335",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/360_F_409083769_Ymk72SZ1iXZGcuSSvTDPjVxiwQ0ztzgH.png",
+    "tag": "General",
+    "tap": "https://t.me/joinchat/hXN4Q4t0U5tiMDg1",
+    "id": 93063
+  },
+  {
+    "name": "Gradient 6",
+    "author": "Dhanraj",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.013.png",
+    "time": "2021-08-02 16:13:42.862200",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/20210805_103828.png",
+    "tag": "Gradients",
+    "tap": "null",
+    "id": 322954
+  },
+  {
+    "name": "Saturn V2",
+    "author": "Megh Dave",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.029.jpg",
+    "time": "2021-08-02 16:14:26.461873",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/20210805_092126.png",
+    "tag": "Scenery",
+    "tap": "null",
+    "id": 949488,
+    "size": "0.96MB",
+    "resolution": "1468x3264",
+    "search": "Fluid Red Lava",
+    "description": "A Fluid Wall"
+  },
+  {
+    "name": "Don't Stop",
+    "author": "Megh Dave",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.47.038.jpg",
+    "time": "2021-08-02 13:49:20.889442",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/IMG_20210805_064048_890.png",
+    "tag": "Typography",
+    "tap": "null",
+    "id": 678591
+  },
+   {
+    "name": "The Lion Pride",
+    "author": "Megh Dave",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.041.jpg",
+    "time": "2021-08-02 13:49:20.889442",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/20210805_093235.png",
+    "tag": "Amoled",
+    "tap": "null",
+    "id": 678591
+  }
+]
