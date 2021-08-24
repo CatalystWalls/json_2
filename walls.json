@@ -20,6 +20,7 @@
     "size": "1.26MB",
     "resolution": "1468x3264",
     "search": "Lava Setup",
+    "tap": "null",
     "description": "V7 Of Curvy Wallpaper"
   },
   {
@@ -33,6 +34,7 @@
     "size": "1.22MB",
     "resolution": "1468x3264",
     "search": "Blue Grey",
+    "tap": "null",
     "description": "V2 Of Curvy Wall"
   },
   {
@@ -46,6 +48,7 @@
     "size": "1.42MB",
     "resolution": "1468x3264",
     "search": "Blue Green",
+    "tap": "null",
     "description": "V5 Of Curvy Wallpaper"
   },
   {
@@ -56,10 +59,7 @@
     "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/New%20folder/20210824_091800.jpg",
     "tag": "Waves",
     "id": 412611,
-    "size": "1.15MB",
-    "resolution": "1468x3264",
-    "search": "Waves Sky Blue",
-    "description": "A Minimal Waves Wall"
+    "tap": "null"
   },
   {
     "name": "Gradient 6",
