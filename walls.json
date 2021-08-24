@@ -10,6 +10,58 @@
     "id": 93063
   },
   {
+    "name": "Curvy V7",
+    "author": "Megh Dave",
+    "url": "https://github.com/Not-Dhanraj/json_2/blob/main/wall%2Btemplates/New%20folder/Curvy%20V7_Megh%20Dave.jpg",
+    "time": "2021-08-19 19:05:07.251529",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/New%20folder/20210824_091922.jpg",
+    "tag": "Waves",
+    "id": 757792,
+    "size": "1.26MB",
+    "resolution": "1468x3264",
+    "search": "Lava Setup",
+    "description": "V7 Of Curvy Wallpaper"
+  },
+  {
+    "name": "Curvy V2",
+    "author": "Megh Dave",
+    "url": "https://github.com/Not-Dhanraj/json_2/blob/main/wall%2Btemplates/New%20folder/Curvy%20V2_Megh%20Dave.jpg",
+    "time": "2021-08-19 18:58:26.196150",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/New%20folder/20210824_092026.jpg",
+    "tag": "Waves",
+    "id": 602555,
+    "size": "1.22MB",
+    "resolution": "1468x3264",
+    "search": "Blue Grey",
+    "description": "V2 Of Curvy Wall"
+  },
+  {
+    "name": "Curvy V5",
+    "author": "Megh Dave",
+    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/New%20folder/Curvy%20V5_Megh%20Dave.jpg",
+    "time": "2021-08-19 19:02:35.671166",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/New%20folder/20210824_091616.jpg",
+    "tag": "Waves",
+    "id": 765852,
+    "size": "1.42MB",
+    "resolution": "1468x3264",
+    "search": "Blue Green",
+    "description": "V5 Of Curvy Wallpaper"
+  },
+  {
+    "name": "Dariya",
+    "author": "Megh Dave",
+    "url": "https://github.com/Not-Dhanraj/json_2/blob/main/wall%2Btemplates/New%20folder/Dariya_Megh%20Dave.jpg",
+    "time": "2021-08-19 18:55:09.415952",
+    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/New%20folder/20210824_091800.jpg",
+    "tag": "Waves",
+    "id": 412611,
+    "size": "1.15MB",
+    "resolution": "1468x3264",
+    "search": "Waves Sky Blue",
+    "description": "A Minimal Waves Wall"
+  },
+  {
     "name": "Gradient 6",
     "author": "Dhanraj",
     "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.013.png",
@@ -18,39 +70,5 @@
     "tag": "Gradients",
     "tap": "null",
     "id": 322954
-  },
-  {
-    "name": "Saturn V2",
-    "author": "Megh Dave",
-    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.029.jpg",
-    "time": "2021-08-02 16:14:26.461873",
-    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/20210805_092126.png",
-    "tag": "Scenery",
-    "tap": "null",
-    "id": 949488,
-    "size": "0.96MB",
-    "resolution": "1468x3264",
-    "search": "Fluid Red Lava",
-    "description": "A Fluid Wall"
-  },
-  {
-    "name": "Don't Stop",
-    "author": "Megh Dave",
-    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.47.038.jpg",
-    "time": "2021-08-02 13:49:20.889442",
-    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/IMG_20210805_064048_890.png",
-    "tag": "Typography",
-    "tap": "null",
-    "id": 678591
-  },
-   {
-    "name": "The Lion Pride",
-    "author": "Megh Dave",
-    "url": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/2021-08-05.10.46.041.jpg",
-    "time": "2021-08-02 13:49:20.889442",
-    "template": "https://raw.githubusercontent.com/Not-Dhanraj/json_2/main/wall%2Btemplates/20210805_093235.png",
-    "tag": "Amoled",
-    "tap": "null",
-    "id": 678591
   }
 ]
